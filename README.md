@@ -1,6 +1,9 @@
 # laptop
 Tracks changes I've made to my laptop
 
+2/8/2025
+Downloaded Postman
+Installed Postman (interesting little program; I tested my API? from my app.js code and it worked!)
 
 2/8/2025
 Downloaded ProtonVPN_v3.5.1_x64 from protonvpn.com
